@@ -21,7 +21,7 @@ title: Stonly # 主标题
 tagline: Abstract is All You Need # 小标题
 
 description: >- # used by seo meta and the atom feed
-  Technic or 
+  真正的大师往往都怀着一颗学徒的心。
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -30,8 +30,8 @@ url: "https://wwdx-cqu.github.io/"
 github:
   username: wwdx-cqu
 
-twitter:
-  username: twitter_username 
+  # twitter:
+  #   username: twitter_username 
 
 social:
   # Change to your full name.
@@ -40,7 +40,7 @@ social:
   email: 2830951757@qq.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
+    # - https://twitter.com/username # change to your Twitter homepage
     - https://github.com/wwdx-cqu # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
