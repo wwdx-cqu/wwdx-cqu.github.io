@@ -2,7 +2,7 @@
 title: 每天的问题记录
 date: 2025-11-10 19:00:00 +0800
 authors: stonly
-categories: [博客]
+categories: [博客，复习]
 tags: [提问]    
 ---
 
