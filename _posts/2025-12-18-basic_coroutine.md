@@ -113,7 +113,7 @@ int main(){
 }
 ```
 ### 3. 汇编实现:
-![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/fd46438e63b94348b439259d2c1aaf17.png)
+![alt text](image.png)
 若从协程a转换到协程b：
 将co_a中寄存器的值保存后，然后加载co_b。
 如下代码所示：
