@@ -124,8 +124,8 @@ comments:
   giscus:
     repo: "wwdx-cqu/wwdx-cqu.github.io"
     repo_id: "R_kgDOQRF84A"
-    category: "[在此输入分类名]"
-    category_id: "[在此输入分类 ID]"
+    category: "General"
+    category_id: "DIC_kwDOQRF84M4Cz9_a"
     mapping: "title" # optional, default to 'pathname'
     strict: # optional, default to '0'
     input_position: "top" # optional, default to 'bottom'
