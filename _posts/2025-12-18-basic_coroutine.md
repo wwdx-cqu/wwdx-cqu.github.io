@@ -116,6 +116,7 @@ int main(){
 ```
 ### 3. 汇编实现:
 ![](/assets/img/2025-12-18-basic_coroutine/image.png)
+
 若从协程a转换到协程b：
 将co_a中寄存器的值保存后，然后加载co_b。
 如下代码所示：
