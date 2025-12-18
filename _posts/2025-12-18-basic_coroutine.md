@@ -40,7 +40,9 @@ async_xxx(){
 ```
 switch操作原语：如switch(1,2)从1跳转到2。有以下三种实现方式：
 ### 1.setjmp/longjmp。
+
 ```cpp
+
 #include <stdio.h>
 #include <setjmp.h>
 
