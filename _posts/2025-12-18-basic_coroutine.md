@@ -70,6 +70,8 @@ int main() {
 ### 2.ucontext。
 这里通过一张图来解释下面的使用ucontext来进行协程运作的代码，每个协程通过跳转到统一的调度器main_ctx中重新对其进行调度来实现并行运作。一个resume代表恢复到某个协程，yield代表让步本资源，回到调度器中等待重新调度，这两个原语过程看作一个switch。
 
+![](/assets/img/2025-12-18-basic_coroutine/image1.png)
+
 ```cpp
 #include <ucontext.h>
 #include <stdio.h>
