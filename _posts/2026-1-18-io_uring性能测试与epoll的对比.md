@@ -161,7 +161,11 @@ int send_recv_tcppkt(int fd){
 ```
 ## 测试结果
 uring_tcp_server的结果。
+
 ![uring](/assets/img/2026-1-18-1.png)
+
 epoll_tcp_server的结果。
+
 ![epoll](/assets/img/2026-1-18-2.png)
+
 由于一次测试需150秒，故仅测了这一组数据，后续可自行进行测试。
