@@ -6,7 +6,6 @@ categories: [任务, 0voice]
 tags: [learning]    
 ---
 
-[TOC]
 # io_uring的测试工具test_qps_tcpclient
 
 通过编写命令行测试工具来对该io_uring服务器进行测试。要支持类似这样的效果：
